@@ -23,7 +23,7 @@ This is a simple Snake game created using only **HTML**, **CSS**, and **JavaScri
 Simply download the project files and open the `index.html` file in any modern web browser to start playing the game.
 
 ## Screenshot
-![Game Screenshot]()
+![Game Screenshot](./Screenshot.png)
 
 ---
 
